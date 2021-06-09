@@ -1,0 +1,10 @@
+/ShearCell_Interaction/.vs
+/ShearCell_Interaction/Debug
+/ShearCell_Interaction/x64
+/ShearCell_Interaction/NativeWrapper/Debug
+/ShearCell_Interaction/NativeWrapper/x64
+/ShearCell_Interaction/NativeWrapper/*.user
+/ShearCell_Interaction/ShearCell_Interaction/bin
+/ShearCell_Interaction/ShearCell_Interaction/obj
+/ShearCell_Optimization/build__visual-studio-2015/x64
+/ShearCell_Optimization/build__visual-studio-2015/*.user
